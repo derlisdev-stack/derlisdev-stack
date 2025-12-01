@@ -98,12 +98,23 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 ---
 
 ## 🏆 Certifications & Courses
-- [Postman API Beginner](https://academy.postman.com/path/api-beginner)  
-- [Linux Operator Training](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing) 
-- [Digital Media Security](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing)  
-- [TryHackMe: Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)  
-- [Google Cybersecurity Certificate](https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity)  
-
+- **Postman**: [API Beginner Learning Path](https://academy.postman.com/path/api-beginner) ([Certificate](https://drive.google.com/file/d/1dKJGJ3aRb2KCHc5RuXsjIbu1FAsrybZw/view?usp=sharing))
+- **Linux**: [Linux Operator Training](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing) ([Certificate](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing))
+- **Cybersecurity**: [Digital Media Security](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing)
+- **TryHackMe**: [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101), [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
+- **Cisco**: [Intro to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US), [Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
+- **Financial Mathematics**: [Certificate](https://drive.google.com/file/d/1gF-bMzT7B0pbiDJwxaXSgWypz3nJ7I5Y/view?usp=sharing)
+- **Web Design with Bootstrap**: [Certificate](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing)
+- **CAD/CAM Design**: [Certificate](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing)
+- **Computer Networks**: [Certificate](https://drive.google.com/file/d/1BPGOOlpQms6WSb5eoiTDV2SQFbpEzzoV/view?usp=sharing)
+- **Data Journalism & Education**: [Certificate](https://drive.google.com/file/d/1sb5E0E1J02c8JPRddgxhjuJpOLMlPSga/view?usp=sharing)
+- **Scientific Writing II**: [Certificate](https://drive.google.com/file/d/1nsz0lnHEBmyqpd7B_T3-A-rMJVPN_lR1/view?usp=sharing)
+- **Probabilistic Thinking**: [Certificate](https://drive.google.com/file/d/1ejZvzHiYszpF2P0ZvfbCCERLJf2ErKYr/view?usp=sharing)
+- **Applied Numerical Models**: [Certificate](https://drive.google.com/file/d/12xRdv4X-vhotRaQBfSDrL9wg_myAuAMt/view?usp=sharing)
+- **Impact of Statistics**: [Certificate](https://drive.google.com/file/d/1lElUDJQAEjnDSfIAssasQr4i8dL0ZBSW/view?usp=sharing)
+- **Categorical Data in R**: [Certificate](https://drive.google.com/file/d/1xmJgCztp2iuzHrmyH1uYQAIOVUspsnKV/view?usp=sharing)
+- **Moodle Workshop: Data Management and QA Reporting**: [Certificate](https://drive.google.com/file/d/1j-DVz7eIMvzlrMw3uvCcsa0LIbEMTObj/view?usp=sharing)
+- **Google Cybersecurity Certificate**: [Coursera](https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity)
 ---
 
 ## 📊 GitHub Stats
