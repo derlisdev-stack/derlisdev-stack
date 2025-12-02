@@ -9,7 +9,7 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 
 ## 💼 Work Experience
 
-**Tester QA Manual & Automation** — *Service Provider for Real State Holding, 2025 — Present*  
+**Tester QA Manual & Automation** — *Real State Holding, 2025 — Present*  
 - Manual & automated testing of chatbots, APIs, data pipelines.  
 - ETL testing, database validation, authentication flows, regression/integration coverage.  
 - Tools: Postman, Selenium, SQL, Jira, Redmine, SSH diagnostics.
@@ -162,7 +162,10 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=derlisdev-stack&show_icons=true&include_all_commits=false&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derlisdev-stack&layout=compact&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=derlisdev-stack&theme=github-dark-blue)
+<!-- GitHub Stats Card -->
+![Derlis GitHub Stats](https://github-readme-stats.vercel.app/api?username=derlisdev-stack&show_icons=true&theme=radical)
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derlisdev-stack&layout=compact&theme=radical)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=derlisdev-stack&theme=radical)
 
