@@ -9,7 +9,7 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 
 ## 💼 Work Experience
 
-**Tester QA Manual & Automation** — *Service Provider, 2025 — Present*  
+**Tester QA Manual & Automation** — *Service Provider for Real State Holding, 2025 — Present*  
 - Manual & automated testing of chatbots, APIs, data pipelines.  
 - ETL testing, database validation, authentication flows, regression/integration coverage.  
 - Tools: Postman, Selenium, SQL, Jira, Redmine, SSH diagnostics.
