@@ -61,39 +61,83 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-- Manual: Functional, Regression, Integration, UAT  
-- Automation: Selenium, Playwright  
+- Manual Testing: Functional, Regression, Integration, UAT  
+- Automation Testing: Selenium, Playwright, Jest, Vitest  
 - API Testing: Postman, Swagger, REST, JSON  
-- ETL & Data Pipeline Validation  
 - Mobile & Device Testing: Android, Xamarin Forms (.NET/C#)  
-- Test Management: Jira, Redmine  
+- ETL & Data Pipeline Validation  
+- Test Management: Jira, Redmine, BMC Remedy  
 - Authentication & Access Flow Validation  
 - SRS-based Validation & Requirements Coverage  
 
+### Frontend Technologies
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/nuxt-020420.svg?style=for-the-badge&logo=nuxt&logoColor=00dc82)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-563D7C.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 ### Backend & DevOps
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-4D7CFF.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3578E5.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 - PHP 8, Laravel, Composer  
 - Node.js, NPM, Yarn  
 - REST API Architecture, Axios, cURL  
 - Docker & Docker Compose, Linux Administration (Ubuntu, Fedora)  
-- VirtualBox, VMware, WSL2  
+- Virtualization: VirtualBox, VMware, WSL2  
+- Cloud & Hosting: AWS, Google Cloud, Heroku, Vercel, Netlify  
+- Documentation: Docusaurus  
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0066CC?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Cybersecurity & OSINT
-- Vulnerability Documentation  
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF7A00.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+- Vulnerability Documentation & Pentest Reports  
 - OSINT Workflows  
 - Security Log Monitoring (Servers + WordPress)  
 - Secure Linux Environment Auditing  
+
+### Continuous Integration / CI-CD
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![CodeCov](https://img.shields.io/badge/codecov-F01F7A.svg?style=for-the-badge&logo=codecov&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- Automated Builds, Test Runs & Coverage Reporting  
+- Pipeline Configuration (CI/CD)  
+- Test Reporting & Metrics  
+
 
 ---
 
