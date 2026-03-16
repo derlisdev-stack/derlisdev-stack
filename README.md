@@ -37,8 +37,6 @@ QA Analyst & Systems Engineer — Manual/Automation, Data Validation, Linux, Dev
 **Volunteer Assistant** — *Habitat for Humanity, Asunción, 2017 — 2018*  
 - Database entry, archive inventory, spreadsheet organization.
 
-**Automation Scripting Intern** — *PwC Paraguay, Asunción, 2020*  
-- Developed automation scripts, Excel macros, Mail Merge for workflow optimization.
 
 **Research Assistant Contract** — *Theoretical and Applied Statistics Lab, FACEN, 2025*  
 - Research support and contract tasks: [Research Contract](https://drive.google.com/file/d/1Qt5eakHDx3QgJiwACgmX-TQA_6XCsQZa/view?usp=sharing)
